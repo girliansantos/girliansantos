@@ -3,8 +3,7 @@
 - 👨🏽‍🎓 I’m Information Systems Bachelor.
 - 👨🏽‍💻 I'm specializing in back-end development
 - 🔎 How to reach me: @girliansantos
-- 👨🏽‍🏫 Currently learning languages and framewors like: JavaScript, Node.js, React, React-Native, Java, Ruby on Rails, Spring and games with Solar2d using Lua.
-- 💡 Curious fact: I'm a new technologies enthusiast, an eternal student of IT.
+- 👨🏽‍🏫 Currently learning languages and framewors like: JavaScript, Node.js, React, React-Native, Java, Ruby on Rails, Spring, Java, Python and games with Solar2d using Lua.
 
   <div>
    <h2>
